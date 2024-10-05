@@ -23,23 +23,6 @@ You can play the game live [HERE](https://youssehf.github.io/word-game/)
 - **JavaScript (ES6)**: Game logic, DOM manipulation, and interaction.
 - **API Integration**: Fetches the word of the day and validates guesses using a word validation API.
 
-## Getting Started
-Follow these steps to set up the project locally.
-
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/youssehf/word-game.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd word-game
-   ```
-3. Open the project in your browser:
-   - For local setup, just open the `index.html` file in any web browser.
-   - You can also use a live server if you're using a code editor like VS Code.
-
 ### How to Play
 1. The game fetches a random 5-letter word when you load the page.
 2. Enter a word by typing and press **Enter** to submit your guess.
@@ -58,6 +41,24 @@ Follow these steps to set up the project locally.
 
 ## Screenshots
 ![word-game](https://github.com/user-attachments/assets/b40258f9-da63-4323-b219-20fb603d939b)
+
+
+## Getting Started
+Follow these steps to set up the project locally.
+
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/youssehf/word-game.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd word-game
+   ```
+3. Open the project in your browser:
+   - For local setup, just open the `index.html` file in any web browser.
+   - You can also use a live server if you're using a code editor like VS Code.
 
 ## Future Enhancements
 - 🔢 Add difficulty levels with varying word lengths.
