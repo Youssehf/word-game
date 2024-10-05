@@ -14,6 +14,9 @@
 - 🎉 **Winner Animation**: Celebrate victories with a rainbow effect animation.
 - 🔄 **Responsive Design**: Optimized for both desktop and mobile screens.
 
+## Demo
+You can play the game live [HERE](https://youssehf.github.io/word-game/)
+
 ## Technologies Used
 - **HTML5**: Structure of the web page.
 - **CSS3**: Styling and animations.
@@ -54,7 +57,7 @@ Follow these steps to set up the project locally.
 - **Keyboard Letters**: Type your guess.
 
 ## Screenshots
-![Game ScreenShot](screenshots/gameplay.png)
+![word-game](https://github.com/user-attachments/assets/b40258f9-da63-4323-b219-20fb603d939b)
 
 ## Future Enhancements
 - 🔢 Add difficulty levels with varying word lengths.
